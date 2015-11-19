@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <fstream>
 #include <string>
 #include <iostream>
@@ -54,3 +55,6 @@ void print(double* p, const int N, const string fname){
 	out << p[i] << endl;
     out.close();
 }
+=======
+// TTEEEEST
+>>>>>>> 0e55b8d5fe4b666e79fea7e8ff59b8244f76d5ee
